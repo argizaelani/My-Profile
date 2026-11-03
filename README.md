@@ -1,6 +1,6 @@
 # My-Profile Github
 
-![Argy Zaelany](/img/heder1.jpg)
+![Argy Zaelany](/img/h2.jpg)
 
 ### Skills
 
