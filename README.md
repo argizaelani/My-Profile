@@ -2,9 +2,6 @@
 
 ![Argy Zaelany](/img/h2.jpg)
 
-
-# **Develop | Teacher**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Argy Zaelany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Argy Zaelany" height="30" width="40" /></a>
